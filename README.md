@@ -1,4 +1,5 @@
-# "Object Detection, Semantic Segmentation, and Instance Segmentation" Jupyter Notebook
+# Readme for lab3 Jupyter Notebook
+Title: "Object Detection, Semantic Segmentation, and Instance Segmentation"
 
 ### Description
 This notebook provides a comprehensive guide for implementing and evaluating deep learning models for object detection, semantic segmentation, and instance segmentation tasks. It utilizes libraries such as Detectron2, PyTorch, and torchvision.
