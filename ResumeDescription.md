@@ -2,4 +2,4 @@
 https://github.com/JaredTweed/ComputerVision-pytorch-detectron2  
 * Implemented R-CNN-based object detection, semantic, and instance segmentation using Detectron2 and PyTorch.
 * Managed machine learning workflow, with data preparation, model training, and evaluation.
-* Used Google Colab GPU environment, using Python libraries for memory and GPU monitoring, and data management.
+* Used Google Colab GPU environment, using libraries for memory and GPU monitoring.
